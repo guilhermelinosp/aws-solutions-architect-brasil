@@ -3,7 +3,21 @@
 ## Onde está cada conteúdo
 
 - Este arquivo (`README.md`) contém o **Simulado Completo 1** com 65 questões no estilo SAA-C03.
-- O arquivo `questoes.md` contém **questões complementares de estratégia de prova** (meta-perguntas sobre abordagem e formato do exame).
+- O arquivo [`questoes.md`](./questoes.md) contém **questões complementares de estratégia de prova**, o **Simulado Completo 2** e o **Simulado Completo 3**.
+- O arquivo [`mini-simulados-por-dominio.md`](./mini-simulados-por-dominio.md) contém 4 mini-simulados de 20 questões: segurança, resiliência, performance e custo.
+- O arquivo [`caderno-de-erros.md`](./caderno-de-erros.md) traz um template reutilizável para transformar erros em revisão espaçada.
+- O arquivo [`reta-final-saa-c03.md`](./reta-final-saa-c03.md) organiza os planos de 14 dias e 7 dias antes da prova.
+
+## Índice rápido de revisão final
+
+| Objetivo | Arquivo | Como usar |
+|---|---|---|
+| Simulado completo inicial | [README.md](./README.md#simulado-completo-1--65-questões) | Fazer cronometrado, revisar os erros e registrar no caderno. |
+| Simulado completo 2 | [questoes.md](./questoes.md#simulado-completo-2--65-questões) | Fazer após corrigir o Simulado 1. |
+| Simulado completo 3 | [questoes.md](./questoes.md#simulado-completo-3--65-questões) | Usar como validação final depois do caderno de erros. |
+| Diagnóstico por domínio | [mini-simulados-por-dominio.md](./mini-simulados-por-dominio.md) | Usar quando um domínio ficar abaixo de 75%. |
+| Caderno de erros | [caderno-de-erros.md](./caderno-de-erros.md) | Preencher após cada simulado com regra de decisão para prova. |
+| Reta final | [reta-final-saa-c03.md](./reta-final-saa-c03.md) | Seguir nos últimos 14 ou 7 dias antes do exame. |
 
 ## Estratégia para o Exame SAA-C03
 
